@@ -5,7 +5,7 @@
 <img src="https://github.com/SirateeTopradit/SirateeTopradit/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SirateeTopradit" alt=":)" width="70%"/> <br>
   
 <p><strong>
-"I am an enthusiastic Computer Engineering student exploring the fascinating realm of coding, on the path to becoming a tech expert, while also assisting my mother at her shop."
+"I am an enthusiastic Computer Engineering student exploring the fascinating realm of coding, on the path to becoming a tech expert."
 <br><br> **SirateeTopradit/SirateeTopradit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.</strong></p>
 
 
