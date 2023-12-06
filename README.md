@@ -1,3 +1,5 @@
+### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="25" height="25" />
+<hr></hr>
 <div align="center" width="50">
 
 <img src="https://github.com/SirateeTopradit/SirateeTopradit/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SirateeTopradit" alt=":)" width="70%"/> <br>
