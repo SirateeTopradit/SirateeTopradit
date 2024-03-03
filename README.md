@@ -50,15 +50,6 @@ class About extends Me {
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Getting%20Massage.png" alt="Man Getting Massage" width="25" height="25" />&nbsp;&nbsp; Ask me about **Game, Movies, or anything**. <br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> &nbsp; Connect with Me Email: **tae.siratee@gmail.com**<br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" />&nbsp;&nbsp;Fun fact: "bug" in the context of computer science originates from a literal bug.<br>
-<hr></hr>
-<div align="center" >
-📈 GitHub Analytics
-<p align="left">
-<a href="https://github.com/SirateeTopradit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SirateeTopradit&show_icons=true&theme=algolia&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirateeTopradit&theme=algolia&layout=compact" />
-</a>
-</p>
   
 <hr></hr>
 
